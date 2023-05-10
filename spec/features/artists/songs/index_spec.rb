@@ -17,9 +17,15 @@ RSpec.describe "Artists songs index" do
   end
   it "links to each songs show page" do 
     visit "/artists/#{@fleetwoodmac.id}/songs"
-
+    
     click_on @chain.title
-
+    
     expect(current_path).to eq("/songs/#{@chain.id}")
+  end
+  
+  it "shows the average song length for the artist" do 
+    visit "/artists/#{@fleetwoodmac.id}/songs"
+
+    expect(page).to have_content("Average Song Length for Fleetwood Mac: 470")
   end
 end

@@ -26,8 +26,8 @@
         "lines": [
           1,
           1,
-          1,
-          1,
+          2,
+          2,
           null,
           null
         ]
@@ -37,8 +37,21 @@
           1,
           null
         ]
+      },
+      "/Users/kdhubbard/mod_2/lessons/my_set_list/app/controllers/songs_controller.rb": {
+        "lines": [
+          1,
+          1,
+          0,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1683756170
+    "timestamp": 1683756449
   }
 }

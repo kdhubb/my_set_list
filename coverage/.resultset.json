@@ -15,23 +15,30 @@
           null
         ]
       },
-      "/Users/kdhubbard/mod_2/lessons/my_set_list/spec/models/song_spec.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          2,
-          null
-        ]
-      },
       "/Users/kdhubbard/mod_2/lessons/my_set_list/app/models/song.rb": {
         "lines": [
           1,
           1,
           null
         ]
+      },
+      "/Users/kdhubbard/mod_2/lessons/my_set_list/app/controllers/artist_songs_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/kdhubbard/mod_2/lessons/my_set_list/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1683754902
+    "timestamp": 1683756170
   }
 }
